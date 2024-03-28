@@ -9,7 +9,7 @@
 
 body {
     height: 100vh;
-    background: linear-gradient(#1c1917 50%, #ffb92a 50%);
+    background: linear-gradient(#1c1917 50%, #77c988 50%);
 }
 
 .container {
@@ -39,6 +39,23 @@ body {
     border-radius: 0.3em;
 }
 
+#movie-name {
+    border: 2px solid #1cf484;
+    border-radius: 4px;
+    padding: 8px;
+}
+
+
+/* Hover state */
+#search-btn:hover {
+    background-color: #1cf484;
+}
+
+/* Active state */
+#search-btn:active {
+    background-color: #03101e;
+}
+
 .search-container input {
     background-color: transparent;
     border: 1px solid #a0a0a0;
@@ -51,7 +68,7 @@ body {
 }
 
 .search-container button {
-    background-color: #ffb92a;
+    background-color: #77c988;
     border: none;
     cursor: pointer;
 }
