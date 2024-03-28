@@ -13,7 +13,7 @@ Movie Recommender JS is an interactive web interface designed to help users sear
 ## Screenshots
 
 ### Without Search Query
-![Screenshot Without Search Query](screentshot_e.png)
+![Screenshot Without Search Query](screenshot_e.png)
 
 ### With Search Query (e.g., "Avatar" movie)
 ![Screenshot With Search Query](screenshot_obj.png)
