@@ -3,7 +3,7 @@ let searchBtn = document.getElementById("search-btn");
 let result = document.getElementById("result");
 
 // Define your API key
-let key = "6a9c84ba"; // Replace "your_api_key_here" with your actual API key
+let key = "your_key"; // Replace "your_api_key_here" with your actual API key
 
 // function to fetch data from api
 let getMovie = () => {
